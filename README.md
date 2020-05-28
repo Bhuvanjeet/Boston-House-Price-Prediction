@@ -42,6 +42,24 @@ https://www.kaggle.com/vikrishnan/boston-house-prices
 
 Download the dataset in .csv format and name it as 'housing.csv' and save it where 'house_price_prediction.ipynb' file is cloned.
 
+## Requirements :
+
+1- Python 
+
+2- Jupyter Notebook (or you can do it on Colabortory)
+
+Python Libraries :
+
+    1- Numpy
+
+    2- Pandas
+
+    3- Matplotlib
+
+    4- Seaborn
+
+    5- scikit-learn
+
 ## Project Overview :
 
 **1- Exploratory Data Analysis**
