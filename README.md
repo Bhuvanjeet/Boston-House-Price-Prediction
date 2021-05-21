@@ -2,7 +2,7 @@
 
 Webinar - Hands on Session on Linear Regression and using Linear Regression to predict house prices.
 
-Link to the Webinar - https://www.youtube.com/watch?v=4PdT7DFumxs&list=PL3si_XEHQIZU6Ue5wMq3nkZnl6ihUHL6x&index=30&ab_channel=C4Projects
+Link to the Webinar - Video Walkthrough and Hands-On Implementation - https://bit.ly/3bNlFHk
 
 Boston House Price Predicition
 
